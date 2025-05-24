@@ -1,0 +1,32 @@
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+env.json
+*.pdf
+data/
+tmp/
+.venv/
+
+# Serverless directories
+.serverless
+
+node_modules/
+
+*.xlsx
+*.xls
+__pycache__
